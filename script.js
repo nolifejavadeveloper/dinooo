@@ -42,6 +42,3 @@ jump();
 
 })
 
-//https://youtu.be/i7nIutSLvdU?t=611
-
-
